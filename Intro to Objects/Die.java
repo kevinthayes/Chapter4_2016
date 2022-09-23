@@ -21,6 +21,12 @@ public class Die
       numFaces = 6;
       faceValue = 1;
    }
+   
+    public Die (int sides)
+   {
+      numFaces = 6;
+      faceValue = 1;
+   }
 
    /**
    	 constructor
